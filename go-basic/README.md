@@ -1,10 +1,9 @@
 # Go基础语法
 
-## 安装
+学习文档：[Go语言圣经（中文版）](https://books.studygolang.com/gopl-zh/)
 
-建议直接安装Jetbrains家族的GoLand软件，从里面下载Go所需的编译环境SDK即可：
-
-[https://www.jetbrains.com/go/](https://www.jetbrains.com/go/)
-
-## Chapter
+- [chap01](./chap01) 入门
+- [chap02](./chap02) 程序结构
+- [chap03](./chap03) 基础数据类型
+- [chap04](./chap04) 复合数据类型
 
